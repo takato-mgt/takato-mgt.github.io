@@ -1,0 +1,16 @@
+
+#cat{
+    color: red;
+}
+.head{
+    color: red;
+}
+#intro{
+    color: #4169e1;
+    background-color: #dcdcdc;
+    font-size: 30px;
+    font-family: "游明朝";
+    text-align: center;
+    width: 50vw;
+    height: 10vh;
+}
